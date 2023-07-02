@@ -4,7 +4,8 @@
 
 #### Brief Description of Application
 
-Application Allows Users to find Businesses around them.
+Application Allows Users to find Businesses around them. 
+
 
 ## Technologies Used
 
